@@ -3,7 +3,7 @@ from PIL import ImageDraw
 from PIL import ImageFont
 from random import randint
 
-CANTIDAD_IMAGENES = 5
+CANTIDAD_IMAGENES = 11
 
 def elegirNroImagen(ultimoNroImagen):
     # Elegimos un número random para abrir una imagen
